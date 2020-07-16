@@ -1,2 +1,4 @@
-# Detik-Populer-Scraper
-Scraping Berita Populer Dari Detik.com
+**Scraper Machine**
+
+Web Scraper untuk menscraping berita terpopuler dari detik.com, nilai tukar rupiah dan...
+
